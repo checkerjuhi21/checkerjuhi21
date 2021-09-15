@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine learning, Computer vision, Deep learning and Data Science & analytics.
 - 🌱 I’m currently learning Semantic segmentation on PolSAR images, Speckle removal using Pix2Pix on PolSAR images and data analysis on DPR and IoT data.
 - 📫 You can reach me on Linkedin: www.linkedin.com/in/juhi-checker-9561bb164
+- 👩🏻‍💻 You also check out my new website: https://checkerjuhi21.github.io/JuhiChecker/
 
 <!---
 checkerjuhi21/checkerjuhi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
